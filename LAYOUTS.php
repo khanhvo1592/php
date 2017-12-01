@@ -1,2 +1,9 @@
-<head></head>>
-<body>sadsadsadsa</body>
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
